@@ -1,0 +1,1371 @@
+.logozero
+{
+  height: 67px;
+  width: 167px;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+
+.iot{
+  
+font-family: Muli;
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 20px;
+top: 130px;
+position: relative;
+
+letter-spacing: 0.12em;
+
+color: #255ED6;
+
+
+}
+.navig {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 300;
+  color: white;
+  font-size: 14px;
+  line-height: 18px;
+  margin-right: 105px;
+}
+.navig1 {
+  position: absolute;
+  width: 292px;
+  height: 18px;
+  left: 1043px;
+  top: 9px;
+}
+.img {
+  box-shadow: 0 0 6px whitesmoke;
+}
+.request {
+  text-align: center;
+  background-size: cover;
+  height: 280px;
+  background-color: rgba(233, 239, 251, 0.95);
+}
+.req {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 48px;
+  color: #2b61da;
+  top: 60px;
+  position: relative;
+}
+.reqbtn {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+
+  color: #ffffff;
+  top: 78px;
+  position: relative;
+}
+.btntxt {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+}
+.trail {
+  background-size: cover;
+  background-color: rgba(233, 239, 251, 0.95);
+  height: 254px;
+  text-align: center;
+}
+.trailtxt {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 23px;
+  position: relative;
+  top: 70px;
+  letter-spacing: 0.1em;
+
+  color: #504f59;
+}
+
+.trailbtn {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+  position: relative;
+  top: 95px;
+
+  color: #ffffff;
+}
+.trailsmtxt {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 18px;
+
+  position: relative;
+  top: 100px;
+  color: #504f59;
+}
+.footer {
+  background-color: #2b61da;
+  height: 500px;
+}
+.footer1 {
+  position: relative;
+  text-align: center;
+  top: 120px;
+}
+
+.zero {
+  font-family: Cera Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.text {
+  font-family: Muli;
+  font-style: normal;
+
+  font-size: 14px;
+  line-height: 23px;
+  color: #ffffff;
+}
+
+.icon {
+  font-size: 20px;
+  color: white;
+  margin-right: 20px;
+}
+
+.hori {
+  top: 150px;
+
+  background-color: white;
+  position: relative;
+}
+.copy {
+  font-family: Cera Pro;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  top: 155px;
+  position: relative;
+
+  letter-spacing: 0.07em;
+
+  color: #ffffff;
+}
+
+.key {
+  background-size: cover;
+  height: 822px;
+  background-color: #2b61da;
+}
+.key1a {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 800;
+  top: 85px;
+  position: relative;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.hori1 {
+  background-color: white;
+  width: 44px;
+  height: 4px;
+  border-radius: 2px;
+}
+
+.key1 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  top: 100px;
+  position: relative;
+  line-height: 36px;
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.key2 {
+  background-size: cover;
+  height: 400px;
+
+  top: 150px;
+  position: relative;
+}
+
+.key3 {
+  background-size: cover;
+  height: 400px;
+
+  top: 150px;
+  position: relative;
+}
+.key2a {
+  background-color: white;
+  width: 280px;
+  height: 374px;
+  top: 30px;
+  position: relative;
+  box-shadow: 0 3px 6px black;
+  border-radius: 5%;
+}
+.pic1 {
+  width: 115px;
+  height: 114px;
+  border-radius: 50%;
+  top: 40px;
+  position: relative;
+
+  background: #eaf0fb;
+}
+.pichead {
+  top: 50px;
+  position: relative;
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+
+  text-align: center;
+
+  color: #255ed6;
+}
+.pic2 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  top: 66px;
+  position: relative;
+  color: #000000;
+}
+.pic3 {
+  font-family: Muli;
+  font-style: italic;
+  font-weight: 200;
+  font-size: 16px;
+  line-height: 20px;
+  top: 100px;
+  position: relative;
+
+  text-align: center;
+
+  color: rgba(37, 94, 214, 0.61);
+}
+
+.users {
+  background-size: cover;
+  height: 700px;
+  background-color: #eaf0fb;
+}
+
+.users1 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  top: 70px;
+  position: relative;
+  text-align: center;
+  letter-spacing: 0.05em;
+
+  color: #255ed6;
+}
+
+.users2 {
+  top: 150px;
+  position: relative;
+}
+.partners {
+  width: 550px;
+  height: 450px;
+  background-color: white;
+}
+.partner {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 30px;
+  top: 40px;
+  left: 30px;
+  position: relative;
+  color: #2b61da;
+}
+.partner1 {
+  top: 60px;
+  position: relative;
+}
+.partners1 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: #000000;
+}
+
+.demo {
+  background-size: cover;
+  height: 400px;
+  color: white;
+  padding: 10px;
+}
+.demo1 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+
+  color: #255ed6;
+}
+.video {
+  top: 30px;
+  position: relative;
+}
+.demovideo {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 23px;
+
+  color: #000000;
+}
+.video1 {
+  height: 258px;
+  width: 100%;
+  background: #d7e4fb;
+}
+
+.initial {
+  height: 650px;
+  background-size: cover;
+  padding-left: 40px;
+}
+.imgsrc {
+  width: 100%;
+  height: 550px;
+}
+.initial-1 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 60px;
+  height: 100px;
+  width: 600px;
+  top: 128px;
+  position: relative;
+  color: #14151b;
+}
+.initial-2 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  width: 500px;
+  top: 150px;
+  position: relative;
+
+  letter-spacing: 0.12em;
+
+  color: rgba(80, 79, 89, 0.8);
+}
+.initial-3 {
+  top: 190px;
+  position: relative;
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+
+  color: #255ed6;
+}
+.initial-3a {
+  color: #2b61da;
+}
+.initial-4 {
+  top: -50px;
+  position: relative;
+}
+.personal {
+  height: 550px;
+  background-size: cover;
+  background-color: white;
+}
+.personal1 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  top: 105px;
+  position: relative;
+  width: 700px;
+  line-height: 54px;
+  letter-spacing: 0.05em;
+  color: #255ed6;
+}
+.imgsrc1 {
+  
+  height: 398px;
+}
+.personal2 {
+  font-family: Muli;
+  font-style: normal;
+  top: 130px;
+  position: relative;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: rgba(80, 79, 89, 0.8);
+}
+.personal3-1 {
+  top: 180px;
+  position: relative;
+}
+.personal3 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+.fant {
+  color: #255ed6;
+}
+
+.test {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  top: 70px;
+  width: 500px;
+  position: relative;
+  line-height: 60px;
+  letter-spacing: 0.03em;
+
+  color: #255ed6;
+}
+.testimony {
+  height: 550px;
+  background-size: cover;
+}
+.test1 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 300;
+  top: 100px;
+  width: 500px;
+  position: relative;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #504f59;
+}
+.test2 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  top: 130px;
+  position: relative;
+  line-height: 18px;
+  letter-spacing: 0.12em;
+
+  color: #255ed6;
+}
+.test3 {
+  box-shadow: 0 3px 6px whitesmoke;
+  width: 450px;
+  height: 250px;
+}
+.test3a {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 300;
+  top: 60px;
+  position: relative;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #504f59;
+}
+.font {
+  font-size: 50px;
+  color: #255ed6;
+  top: -20px;
+  position: relative;
+}
+.test3a1 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  top: 20px;
+  position: relative;
+
+  color: #14151b;
+}
+.circle {
+  width: 112px;
+  height: 112px;
+  top: 50px;
+  position: relative;
+  left: 30px;
+  background: #eaf0fb;
+  border-radius: 50%;
+}
+
+.modalbutton
+{
+  background-color: white;
+  opacity: 10%;
+  color: white;
+}
+.modaldata
+{
+  
+font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+margin-top: 30px;
+line-height: 18px;
+letter-spacing: 0.12em;
+color: rgba(0, 0, 0, 0.8);
+
+}
+.modaldatamain{
+  
+font-family: Muli;
+font-style: normal;
+margin-top: 30px;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+
+letter-spacing: 0.12em;
+
+color: rgba(0, 0, 0, 0.8);
+}
+.tododata
+{
+ font-family: Muli;
+font-style: normal;
+font-weight: 300;
+font-size: 28px;
+margin-top: 30px;
+line-height: 24px;
+/* identical to box height, or 86% */
+
+
+color: #2B61DA;
+}
+
+
+
+/*CONTACT US POP UP*/
+.contactus{
+  height: 600px;
+}
+
+.contactus1
+{
+  text-align: center;
+  background-image: url('Contactus.jpeg');
+  background-size: cover;
+  height: 200px;
+
+ 
+}
+
+.contactus2
+{
+  font-family: Muli;
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+top: 56px;
+position: relative;
+color: #FFFFFF;
+
+}
+.contactus3
+{
+  top: 50px;
+  position: relative;
+  font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+}
+.contactinput
+{
+
+  text-align: start;
+  height: 400px;
+  box-shadow: 0 0 4px black;
+  background-color: white;
+}
+.contactinput2
+{
+  text-align: start;
+
+  height: 400px;
+  box-shadow: 0 0 4px black;
+  background-color:#255ED6;
+}
+.cin{
+  top: 70px;
+  position: relative;
+}
+.userinfo
+{
+  
+font-family: Muli;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+color: #FFFFFF;
+
+}
+.userinfo1
+{
+  
+font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+}
+.label1
+{
+ margin-top: 30px;
+}
+
+.nametab
+{
+  height: 30px;
+  width: 330px;
+}
+.messagetab
+{
+  height: 60px;
+  width: 330px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1200px) {
+
+ 
+  .login
+  {
+    display: inline-block;
+  }
+  .login1
+  {
+    display: inline-block;
+  
+  }
+ 
+ body
+ {
+    overflow-x: hidden ! important;
+    position: relative;
+ 
+ }
+ .request {
+   text-align: center;
+   background-size: cover;
+   height: 400px;
+   background-color: rgba(233, 239, 251, 0.95);
+ }
+   .footer1 {
+     top: 36px;
+     bottom: 30px;
+ 
+     position: relative;
+     text-align: start;
+   }
+   
+   .description {
+     top: 50px;
+     position: relative;
+   }
+   
+   .description1{
+     top: 70px;
+     position: relative;
+   }
+   .description2{
+     top: 90px;
+     position: relative;
+   }
+   .footer {
+     height: 600px;
+     background-size: cover;
+   }
+   .key {
+     height: 1430px;
+   }
+   .key2 {
+     height: fit-content;
+     width: 200px;
+     left: 2px;
+     position: relative;
+   }
+   
+ .key3 {
+   background-size: cover;
+   height: 400px;
+ 
+   top: 150px;
+   position: relative;
+ }
+   .key2a {
+     background-color: white;
+     width: 200px;
+     height: 374px;
+     top: 30px;
+     position: relative;
+     box-shadow: 0 3px 6px black;
+     border-radius: 5%;
+   }
+   .pic2 {
+     height: min-content;
+     font-size: 13px;
+     top: 40px;
+     width: fit-content;
+   }
+ 
+ 
+   .users {
+     background-size: cover;
+     height: 1300px;
+     height: 1500px;
+  
+     background-color: #eaf0fb;
+   }
+   .demo {
+     background-size: cover;
+     height: 950px;
+     color: white;
+     padding: 10px;
+   }
+   .initial {
+     height: 1100px;
+     background-size: cover;
+     padding-left: 10px;
+     display: flex;
+     flex-direction: column;
+   }
+ 
+  
+   .initial-1 {
+     width: 100%;
+     top: 10px;
+     font-size: 30px;
+     position: relative;
+     order: 1;
+   }
+   .initial-4 {
+     order: 2;
+     top: -125px;
+     position: relative;
+   }
+   .initial-2 {
+     order: 3;
+     top: 600px;
+     font-size: 16px;
+     width: fit-content;
+     position: relative;
+   }
+   .initial-3 {
+     top: 700px;
+     bottom: 30px;
+     text-align: center;
+     position: relative;
+     order: 4;
+   }
+   .initial-3a {
+     top: 50px;
+     text-align: center;
+     position: relative;
+   }
+  
+
+   .partners {
+     width: fit-content;
+     height: 540px;
+ 
+     background-color: white;
+   }
+ 
+   .personal {
+     height: 1100px;
+     display: flex;
+     flex-direction: column;
+   }
+   .personal1 {
+     width: fit-content;
+     order: 1;
+     top: 10px;
+     position: relative;
+   }
+   .personal2 {
+     top: 500px;
+     position: relative;
+     order: 3;
+   }
+   .personal3-1 {
+     top: 520px;
+     position: relative;
+     order: 4;
+   }
+ 
+   .personal4 {
+     top: -130px;
+     position: relative;
+   }
+    
+   .testimony {
+     height: 1000px;
+   }
+   .test{
+     width: 300px;
+     font-size: 30px;
+     position: relative;
+     order: 1;
+   }
+   .test1
+   {
+       width: 300px;
+   }
+   .test3 {
+     top: 200px;
+     width: 330px;
+     position: relative;
+   }
+ 
+   .circle {
+     width: 90px;
+     height: 90px;
+     top: 50px;
+     position: relative;
+     left: 20px;
+     background: #eaf0fb;
+     border-radius: 50%;
+   }
+   .font {
+     font-size: 70px;
+     color: #255ed6;
+     top: 10px;
+     position: relative;
+   }
+
+   .test3a1 {
+     font-family: Muli;
+     font-style: normal;
+     font-weight: bold;
+     font-size: 20px;
+     line-height: 20px;
+     top: 6px;
+     position: relative;
+   
+     color: #14151b;
+   }
+   .test3a {
+     font-family: Muli;
+     font-style: normal;
+     font-weight: 300;
+     top: 10px;
+     position: relative;
+     font-size: 16px;
+     line-height: 20px;
+   
+     color: #504f59;
+   }
+   .iot{
+   
+     font-family: Muli;
+     font-style: normal;
+     font-weight: 800;
+     font-size: 16px;
+     line-height: 20px;
+     top: 500px;
+     position: relative;
+     
+     letter-spacing: 0.12em;
+     
+     color: #255ED6;
+     
+     
+ }
+ .font {
+  font-size: 28px;
+  color: #255ed6;
+  position: relative;
+}
+.py
+{
+  top: 20px;
+  position: relative;
+}
+.pic3 {
+  font-family: Muli;
+  font-style: italic;
+  font-weight: 200;
+  font-size: 16px;
+  line-height: 20px;
+  top: 50px;
+ 
+  position: relative;
+
+  text-align: center;
+
+  color: rgba(37, 94, 214, 0.61);
+}
+#pic3
+{
+  top: 70px;
+  position: relative;
+}
+
+#pic2
+{
+  top: 50px;
+  position: relative;
+}
+.nametab
+{
+  height: 40px;
+  width: 200px;
+}
+.messagetab
+{
+  height: 50px;
+  width: 200px;
+}
+
+
+
+ /*CONTACT US POP UP*/
+.contactus{
+  height: 1000px;
+}
+
+
+.contactus2
+{
+  
+color: black;
+
+}
+.contactus3
+{
+  
+color:black;
+
+}
+ }
+ 
+
+@media screen and (max-width: 500px) {
+
+ 
+ .login
+ {
+   display: inline-block;
+ }
+ .login1
+ {
+   display: inline-block;
+ 
+ }
+
+body
+{
+   overflow-x: hidden ! important;
+   position: relative;
+
+}
+.request {
+  text-align: center;
+  background-size: cover;
+  height: 400px;
+  background-color: rgba(233, 239, 251, 0.95);
+}
+  .footer1 {
+    top: 36px;
+    bottom: 30px;
+
+    position: relative;
+    text-align: start;
+  }
+  
+  .description {
+    top: 50px;
+    position: relative;
+  }
+  
+  .description1{
+    top: 70px;
+    position: relative;
+  }
+  .description2{
+    top: 90px;
+    position: relative;
+  }
+  .footer {
+    height: 600px;
+    background-size: cover;
+  }
+  .key {
+    height: 1430px;
+  }
+  .key2 {
+    height: fit-content;
+    width: 200px;
+    left: 2px;
+    position: relative;
+  }
+  
+.key3 {
+  background-size: cover;
+  height: 400px;
+
+  top: 150px;
+  position: relative;
+}
+  .key2a {
+    background-color: white;
+    width: 200px;
+    height: 374px;
+    top: 30px;
+    position: relative;
+    box-shadow: 0 3px 6px black;
+    border-radius: 5%;
+  }
+  .pic2 {
+    height: min-content;
+    font-size: 13px;
+    top: 40px;
+    width: fit-content;
+  }
+
+
+
+  .users {
+    background-size: cover;
+    height: 1300px;
+    height: 1500px;
+ 
+    background-color: #eaf0fb;
+  }
+  .demo {
+    background-size: cover;
+    height: 950px;
+    color: white;
+    padding: 10px;
+  }
+  .initial {
+    height: 1100px;
+    background-size: cover;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+
+ 
+  .initial-1 {
+    width: 100%;
+    top: 10px;
+    font-size: 30px;
+    position: relative;
+    order: 1;
+  }
+  .initial-4 {
+    order: 2;
+    top: -125px;
+    position: relative;
+  }
+  .initial-2 {
+    order: 3;
+    top: 600px;
+    font-size: 16px;
+    width: fit-content;
+    position: relative;
+  }
+  .initial-3 {
+    top: 700px;
+    bottom: 30px;
+    text-align: center;
+    position: relative;
+    order: 4;
+  }
+  .initial-3a {
+    top: 50px;
+    text-align: center;
+    position: relative;
+  }
+ 
+  #prs
+  {
+      top: -300px;
+      position: relative;
+  }
+  .partners {
+    width: fit-content;
+    height: 540px;
+
+    background-color: white;
+  }
+
+  .personal {
+    height: 1100px;
+    display: flex;
+    flex-direction: column;
+  }
+  .personal1 {
+    width: fit-content;
+    order: 1;
+    top: 10px;
+    position: relative;
+  }
+  .personal2 {
+    top: 500px;
+    position: relative;
+    order: 3;
+  }
+  .personal3-1 {
+    top: 520px;
+    position: relative;
+    order: 4;
+  }
+
+  .personal4 {
+    position: relative;
+    top: -250px;
+    order: 2;
+  }
+  .imgsrc1{
+    height: 50%;
+  }
+  
+  .testimony {
+    height: 1000px;
+  }
+  .test{
+    width: 300px;
+    font-size: 30px;
+    position: relative;
+    order: 1;
+  }
+  .test1
+  {
+      width: 300px;
+  }
+  .test3 {
+    top: 200px;
+    width: 330px;
+    position: relative;
+  }
+
+  .circle {
+    width: 90px;
+    height: 90px;
+    top: 50px;
+    position: relative;
+    left: 20px;
+    background: #eaf0fb;
+    border-radius: 50%;
+  }
+  .font {
+    font-size: 70px;
+    color: #255ed6;
+    top: 10px;
+    position: relative;
+  }
+  .personal-5
+  {
+    top: -70px;
+    position: relative;
+  }
+  .test3a1 {
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    top: 6px;
+    position: relative;
+  
+    color: #14151b;
+  }
+  .test3a {
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 300;
+    top: 10px;
+    position: relative;
+    font-size: 16px;
+    line-height: 20px;
+  
+    color: #504f59;
+  }
+  .iot{
+  
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    top: 500px;
+    position: relative;
+    
+    letter-spacing: 0.12em;
+    
+    color: #255ED6;
+    
+    
+}
+.font {
+  font-size: 28px;
+  color: #255ed6;
+  position: relative;
+}
+.py
+{
+  top: 20px;
+  position: relative;
+}
+.pic3 {
+ top: 50px;
+ position: relative;
+}
+
+#pic3
+{
+  top: 70px;
+  position: relative;
+}
+#pic2
+{
+  top: 50px;
+  position: relative;
+}
+/*CONTACT US POP UP*/
+.contactus{
+  height: 1000px;
+}
+.nametab
+{
+  height: 30px;
+  width: 200px;
+}
+.messagetab
+{
+  height: 50px;
+  width: 200px;
+}
+.contactus1
+{
+  text-align: center;
+  background-image: url('Contactus.jpeg');
+  background-size: cover;
+  height: 200px;
+
+ 
+}
+.contactus2
+{
+  
+color: black;
+
+}
+.contactus3
+{
+  
+color:black;
+
+}
+}
